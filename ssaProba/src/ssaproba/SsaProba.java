@@ -17,5 +17,6 @@ public class SsaProba {
         // TODO code application logic here
         System.out.println("Kaixo Jaime!");
         System.out.println("Kaixo Eider!");
+        System.out.println("Aio!");
     }
 }

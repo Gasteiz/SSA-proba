@@ -9,5 +9,5 @@ package ssaproba;
  * @author ehu
  */
 public class HirugarrenProba {
-    
+    int i;
 }
