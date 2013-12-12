@@ -19,6 +19,7 @@ public class SsaProba {
         System.out.println("Kaixo Eider!");
         System.out.println("Aio!");
         System.out.println("Kaixo!!");
+        System.out.println("Git erabiltzea gustatzen zait!!");
         
     }
 }
