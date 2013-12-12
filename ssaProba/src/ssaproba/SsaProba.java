@@ -18,5 +18,7 @@ public class SsaProba {
         System.out.println("Kaixo Jaime!");
         System.out.println("Kaixo Eider!");
         System.out.println("Aio!");
+        System.out.println("Kaixo!!");
+        
     }
 }
